@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "unistd.h": "c",
+        "led.h": "c",
+        "stm32l475xx.h": "c",
+        "stm32l4xx.h": "c",
+        "uart.h": "c",
+        "clocks.h": "c",
+        "matrix.h": "c",
+        "limits": "c",
+        "core_cm4.h": "c",
+        "irq.h": "c"
+    }
+}
